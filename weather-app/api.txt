@@ -1,0 +1,2 @@
+Weather API
+Go to https://openweathermap.org/api to request your personal API key.
